@@ -4,7 +4,8 @@
 
 
 
-![1enzz GitHub stats](https://github-readme-stats.vercel.app/api?username=1enzz&show_icons=true&theme=radical)
+![1enzz GitHub stats](https://github-readme-stats.vercel.app/api?username=1enzz&show_icons=true&theme=radical)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1enzz&layout=compact)
 
 
 ## Competências
