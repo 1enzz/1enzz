@@ -1,5 +1,5 @@
 ### Enzo Oliveira 🕷️🕸️
-#### Escrevo uns códigos pra ganhar dinheiro.
+#### Writting code to get money in the bank.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzz5/)
 
 
@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1enzz&layout=compact&theme=radical)
 
 
-## Competências
+## Skills
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
