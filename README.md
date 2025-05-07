@@ -19,4 +19,4 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div><br/>
 
-
+![Snake animation](https://github.com/1enzz/1enzz/blob/output/github-contribution-grid-snake.svg)
