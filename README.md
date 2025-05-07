@@ -9,6 +9,7 @@
 
 
 ## Skills
+![Snake animation](https://github.com/1enzz/1enzz/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,4 +20,3 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 </div>
-![Snake animation](https://github.com/1enzz/1enzz/blob/output/github-contribution-grid-snake.svg)
