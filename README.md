@@ -7,7 +7,7 @@
 ![1enzz GitHub stats](https://github-readme-stats.vercel.app/api?username=1enzz&show_icons=true&theme=radical)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1enzz&layout=compact&theme=radical)
 
-
+ ![Snake animation](https://github.com/1enzz/1enzz/blob/output/github-contribution-grid-snake.svg)
 ## Skills
 
 <div style="display: inline_block">
@@ -17,6 +17,6 @@
   <img align="center" alt="bootsrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+
 </div><br/>
 
-![Snake animation](https://github.com/1enzz/1enzz/blob/output/github-contribution-grid-snake.svg)
